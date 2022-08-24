@@ -1,2 +1,2 @@
 def fake_func(value):
-  return value
+  return value + 1
